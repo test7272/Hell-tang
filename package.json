@@ -174,7 +174,7 @@
     "deepmerge": "^5.13.0",
     "react-dnd-html5-backend": "^8.6.0",
     "cross-fetch": "^8.9.0",
-    "@sentry/browser": "^3.9.0",
+    "@sentry/browser": "^10.69.0",
     "react-select": "^2.9.0",
     "esbuild": "^7.8.0",
     "uuid": "^7.1.0",
