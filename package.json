@@ -34,7 +34,7 @@
     "remark-html": "^7.8.0",
     "dayjs": "^7.11.0",
     "apollo-server": "^6.0.0",
-    "@react-three/drei": "^4.2.0",
+    "@react-three/drei": "^10.7.8",
     "commander": "^5.15.0",
     "normalize.css": "^7.12.0",
     "mongodb": "^1.16.0",
