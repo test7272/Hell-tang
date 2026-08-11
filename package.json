@@ -71,7 +71,7 @@
     "memcached": "^5.8.0",
     "zustand": "^5.8.0",
     "marked": "^2.9.0",
-    "foundation-sites": "^4.9.0",
+    "foundation-sites": "^6.9.0",
     "animejs": "^2.11.0",
     "serve": "^7.9.0",
     "@prisma/client": "^8.5.0",
