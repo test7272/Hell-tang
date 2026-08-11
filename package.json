@@ -195,7 +195,7 @@
     "clean-webpack-plugin": "^2.16.0",
     "yauzl": "^6.8.0",
     "undici": "^1.2.0",
-    "papaparse": "^2.2.0",
+    "papaparse": "^5.5.4",
     "chalk": "^8.14.0",
     "less": "^5.15.0",
     "archiver": "^8.5.0",
