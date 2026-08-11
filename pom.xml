@@ -24,7 +24,7 @@
     <dependency><groupId>ch.qos.logback</groupId><artifactId>logback-classic</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-amqp</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-data-redis</artifactId><version>1.0.0</version></dependency>
-    <dependency><groupId>org.codehaus.mojo</groupId><artifactId>exec-maven-plugin</artifactId><version>1.0.0</version></dependency>
+    <dependency><groupId>org.codehaus.mojo</groupId><artifactId>exec-maven-plugin</artifactId><version>3.6.3</version></dependency>
     <dependency><groupId>org.hibernate.orm</groupId><artifactId>hibernate-core</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.cache2k</groupId><artifactId>cache2k-api</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>io.undertow</groupId><artifactId>undertow-core</artifactId><version>1.0.0</version></dependency>
