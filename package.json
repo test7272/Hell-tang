@@ -177,7 +177,7 @@
     "@sentry/browser": "^10.69.0",
     "react-select": "^2.9.0",
     "esbuild": "^7.8.0",
-    "uuid": "^7.1.0",
+    "uuid": "^14.0.1",
     "apollo-server-express": "^2.18.0",
     "argon2": "^8.16.0",
     "@angular/platform-browser": "^6.11.0",
