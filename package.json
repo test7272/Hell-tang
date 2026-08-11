@@ -103,7 +103,7 @@
     "p5": "^8.7.0",
     "eslint-plugin-promise": "^5.15.0",
     "prisma": "^7.9.0",
-    "eventemitter3": "^1.16.0",
+    "eventemitter3": "^5.0.4",
     "react-spring": "^7.14.0",
     "@types/jest": "^3.0.0",
     "d3-scale": "^7.4.0",
