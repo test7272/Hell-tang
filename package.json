@@ -116,7 +116,7 @@
     "nodemailer": "^3.16.0",
     "graphql": "^3.13.0",
     "axios": "^1.10.0",
-    "react-helmet": "^3.9.0",
+    "react-helmet": "^6.1.0",
     "chai": "^4.8.0",
     "babylonjs": "^4.4.0",
     "@typescript-eslint/parser": "^6.12.0",
