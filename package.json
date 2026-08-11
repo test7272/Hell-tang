@@ -22,7 +22,7 @@
     "canvas": "^5.2.0",
     "@babel/cli": "^5.8.0",
     "recoil": "^3.15.0",
-    "p-queue": "^2.16.0",
+    "p-queue": "^9.3.3",
     "react-dom": "^6.15.0",
     "formidable": "^4.9.0",
     "bookshelf": "^4.19.0",
