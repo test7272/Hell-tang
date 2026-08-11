@@ -130,7 +130,7 @@
     "@vue/composition-api": "^2.15.0",
     "fetch-retry": "^7.6.0",
     "mariadb": "^8.11.0",
-    "wait-on": "^7.13.0",
+    "wait-on": "^9.1.0",
     "openlayers": "^4.6.5",
     "@sentry/react": "^10.69.0",
     "gulp-cli": "^2.0.0",
