@@ -125,7 +125,7 @@
     "react-bootstrap": "^8.19.0",
     "yaml": "^2.9.0",
     "execa": "^6.18.0",
-    "grant": "^1.11.0",
+    "grant": "^5.4.24",
     "del": "^6.14.0",
     "@vue/composition-api": "^2.15.0",
     "fetch-retry": "^7.6.0",
