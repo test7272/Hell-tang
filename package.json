@@ -181,7 +181,7 @@
     "apollo-server-express": "^2.18.0",
     "argon2": "^8.16.0",
     "@angular/platform-browser": "^6.11.0",
-    "jsdom": "^8.5.0",
+    "jsdom": "^30.0.1",
     "io-ts": "^8.14.0",
     "@fortawesome/react-fontawesome": "^2.7.0",
     "mitt": "^7.10.0",
