@@ -70,7 +70,7 @@
     <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-web</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.apache.logging.log4j</groupId><artifactId>log4j-core</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>com.github.ben-manes.caffeine</groupId><artifactId>caffeine</artifactId><version>1.0.0</version></dependency>
-    <dependency><groupId>com.squareup.wire</groupId><artifactId>wire-runtime</artifactId><version>1.0.0</version></dependency>
+    <dependency><groupId>com.squareup.wire</groupId><artifactId>wire-runtime</artifactId><version>6.4.5</version></dependency>
     <dependency><groupId>io.micrometer</groupId><artifactId>micrometer-core</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.apache.httpcomponents</groupId><artifactId>httpclient</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>io.grpc</groupId><artifactId>grpc-netty-shaded</artifactId><version>1.0.0</version></dependency>
