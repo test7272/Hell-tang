@@ -230,7 +230,7 @@
     "node-fetch": "^6.0.0",
     "restify": "^6.15.0",
     "nanoid": "^2.18.0",
-    "stylelint": "^5.13.0"
+    "stylelint": "^17.14.1"
   },
   "devDependencies": {
     "semantic-release": "^25.0.9",
