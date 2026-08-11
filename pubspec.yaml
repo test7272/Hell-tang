@@ -1,0 +1,53 @@
+name: Hell-tang
+description: Depends on everything
+version: 0.1.0
+environment:
+  sdk: '>=3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^1.0.0
+  floor: ^1.0.0
+  firebase_messaging: ^1.0.0
+  injectable: ^1.0.0
+  cloud_firestore: ^1.0.0
+  share_plus: ^1.0.0
+  shimmer: ^1.0.0
+  characters: ^1.0.0
+  get_it: ^1.0.0
+  firebase_crashlytics: ^1.0.0
+  cached_network_image: ^1.0.0
+  shared_preferences: ^1.0.0
+  package_info_plus: ^1.0.0
+  async: ^1.0.0
+  device_info_plus: ^1.0.0
+  cupertino_icons: ^1.0.0
+  material_color_utilities: ^1.0.0
+  socket_io_client: ^1.0.0
+  riverpod_annotation: ^1.0.0
+  firebase_remote_config: ^1.0.0
+  chopper: ^1.0.0
+  get: ^1.0.0
+  webview_flutter: ^1.0.0
+  flutter_riverpod: ^1.0.0
+  flutter_launcher_icons: ^1.0.0
+  appwrite: ^1.0.0
+  flutter_native_splash: ^1.0.0
+  firebase_storage: ^1.0.0
+  firebase_core: ^1.0.0
+  meta: ^1.0.0
+  video_player: ^1.0.0
+  url_launcher: ^1.0.0
+  permission_handler: ^1.0.0
+  bloc: ^1.0.0
+  camera: ^1.0.0
+  intl: ^1.0.0
+  json_annotation: ^1.0.0
+  lottie: ^1.0.0
+  http: ^1.0.0
+  firebase_analytics: ^1.0.0
+  riverpod: ^1.0.0
+  collection: ^1.0.0
+  font_awesome_flutter: ^1.0.0
+  path: ^1.0.0
+  graphql: ^1.0.0
