@@ -73,7 +73,7 @@
     "marked": "^2.9.0",
     "foundation-sites": "^6.9.0",
     "animejs": "^2.11.0",
-    "serve": "^7.9.0",
+    "serve": "^14.2.6",
     "@prisma/client": "^8.5.0",
     "debug": "^8.13.0",
     "waterline": "^3.16.0",
