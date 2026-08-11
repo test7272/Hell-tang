@@ -204,7 +204,7 @@
     "react-i18next": "^7.0.0",
     "@nestjs/core": "^6.12.0",
     "helmet": "^2.14.0",
-    "rewire": "^8.9.0",
+    "rewire": "^9.0.1",
     "gsap": "^6.0.0",
     "passport-github2": "^8.5.0",
     "animate.css": "^3.14.0",
