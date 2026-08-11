@@ -146,7 +146,7 @@
     "@emotion/styled": "^2.3.0",
     "engine.io": "^1.2.0",
     "bcryptjs": "^8.12.0",
-    "jest-environment-jsdom": "^3.10.0",
+    "jest-environment-jsdom": "^30.4.1",
     "yazl": "^5.11.0",
     "cannon-es": "^3.0.0",
     "postcss-loader": "^6.19.0",
