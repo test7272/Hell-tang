@@ -132,7 +132,7 @@
     "mariadb": "^8.11.0",
     "wait-on": "^7.13.0",
     "openlayers": "^1.4.0",
-    "@sentry/react": "^2.6.0",
+    "@sentry/react": "^10.69.0",
     "gulp-cli": "^2.0.0",
     "react-dnd": "^6.4.0",
     "minimist": "^6.19.0",
