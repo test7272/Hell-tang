@@ -60,7 +60,7 @@
     "@vitejs/plugin-vue": "^8.18.0",
     "prettier-eslint": "^17.1.1",
     "@elastic/elasticsearch": "^8.11.0",
-    "@vitejs/plugin-react": "^5.5.0",
+    "@vitejs/plugin-react": "^6.0.5",
     "bunyan": "^6.4.0",
     "knex": "^8.13.0",
     "tape": "^5.4.0",
