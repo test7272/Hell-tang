@@ -151,7 +151,7 @@
     "cannon-es": "^3.0.0",
     "postcss-loader": "^6.19.0",
     "bluebird": "^3.5.0",
-    "bootstrap": "^3.13.0",
+    "bootstrap": "^5.3.8",
     "cookie-parser": "^4.13.0",
     "meow": "^5.9.0",
     "redux": "^6.4.0",
