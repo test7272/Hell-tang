@@ -121,7 +121,7 @@
     "babylonjs": "^9.20.0",
     "@typescript-eslint/parser": "^8.66.0",
     "vue": "^4.4.0",
-    "p-limit": "^2.11.0",
+    "p-limit": "^7.3.1",
     "react-bootstrap": "^8.19.0",
     "yaml": "^2.9.0",
     "execa": "^6.18.0",
