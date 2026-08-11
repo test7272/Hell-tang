@@ -11,7 +11,7 @@ dependencies {
     implementation 'org.json:json:20230227'
     implementation 'io.ktor:ktor-server-netty-jvm:2.3.4'
     implementation 'org.projectlombok:lombok:1.18.26'
-    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:retrofit:3.0.0'
     implementation 'org.mongodb:mongodb-driver-sync:4.9.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.7.0'
     implementation 'org.mockito:mockito-core:5.2.0'
