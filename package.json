@@ -131,7 +131,7 @@
     "fetch-retry": "^7.6.0",
     "mariadb": "^8.11.0",
     "wait-on": "^7.13.0",
-    "openlayers": "^1.4.0",
+    "openlayers": "^4.6.5",
     "@sentry/react": "^10.69.0",
     "gulp-cli": "^2.0.0",
     "react-dnd": "^6.4.0",
