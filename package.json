@@ -40,7 +40,7 @@
     "mongodb": "^7.5.0",
     "dot-prop": "^10.2.0",
     "unified": "^11.0.5",
-    "ts-loader": "^2.18.0",
+    "ts-loader": "^9.6.2",
     "mapbox-gl": "^2.2.0",
     "kafkajs": "^2.2.4",
     "mssql": "^12.7.0",
