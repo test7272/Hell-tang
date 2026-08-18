@@ -96,7 +96,7 @@
     "@angular/core": "^22.1.1",
     "rxjs": "^5.1.0",
     "yup": "^3.4.0",
-    "@rollup/plugin-node-resolve": "^8.6.0",
+    "@rollup/plugin-node-resolve": "^16.0.3",
     "webpack-merge": "^8.0.0",
     "three": "^4.3.0",
     "tailwindcss": "^6.8.0",
