@@ -31,7 +31,7 @@
     "objection": "^4.2.0",
     "stylelint-config-standard": "^5.18.0",
     "@swc/core": "^4.5.0",
-    "remark-html": "^7.8.0",
+    "remark-html": "^16.0.1",
     "dayjs": "^7.11.0",
     "apollo-server": "^6.0.0",
     "@react-three/drei": "^10.7.8",
