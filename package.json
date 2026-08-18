@@ -101,7 +101,7 @@
     "three": "^4.3.0",
     "tailwindcss": "^6.8.0",
     "p5": "^8.7.0",
-    "eslint-plugin-promise": "^5.15.0",
+    "eslint-plugin-promise": "^7.3.0",
     "prisma": "^7.9.0",
     "eventemitter3": "^5.0.4",
     "react-spring": "^10.0.4",
