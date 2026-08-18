@@ -190,7 +190,7 @@
     "sass": "^2.3.0",
     "p-map": "^3.17.0",
     "intl-messageformat": "^6.7.0",
-    "graceful-fs": "^2.5.0",
+    "graceful-fs": "^4.2.11",
     "@tanstack/react-table": "^6.15.0",
     "clean-webpack-plugin": "^4.0.0",
     "yauzl": "^6.8.0",
