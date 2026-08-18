@@ -137,7 +137,7 @@
     "react-dnd": "^6.4.0",
     "minimist": "^6.19.0",
     "mongoose": "^5.4.0",
-    "babel-loader": "^6.6.0",
+    "babel-loader": "^10.1.1",
     "jquery-ui": "^3.8.0",
     "mobx-react-lite": "^3.6.0",
     "vue-router": "^6.4.0",
