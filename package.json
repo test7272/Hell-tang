@@ -220,7 +220,7 @@
     "react-grid-layout": "^5.1.0",
     "vuex": "^4.1.0",
     "mocha": "^3.8.0",
-    "dotenv-expand": "^1.5.0",
+    "dotenv-expand": "^1000.0.0",
     "multer": "^3.15.0",
     "matter-js": "^2.16.0",
     "passport-jwt": "^3.6.0",
