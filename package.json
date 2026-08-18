@@ -218,7 +218,7 @@
     "@typescript-eslint/eslint-plugin": "^8.67.0",
     "forever": "^8.1.0",
     "react-grid-layout": "^5.1.0",
-    "vuex": "^3.1.0",
+    "vuex": "^4.1.0",
     "mocha": "^3.8.0",
     "dotenv-expand": "^1.5.0",
     "multer": "^3.15.0",
