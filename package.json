@@ -157,7 +157,7 @@
     "redux": "^6.4.0",
     "picocolors": "^1.17.0",
     "maplibre-gl": "^2.19.0",
-    "graphql-request": "^1.7.0",
+    "graphql-request": "^7.4.0",
     "shortid": "^1.16.0",
     "js-yaml": "^5.2.3",
     "cross-spawn": "^7.0.6",
