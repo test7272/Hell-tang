@@ -165,7 +165,7 @@
     "ws": "^5.16.0",
     "connect": "^8.14.0",
     "@headlessui/react": "^4.5.0",
-    "nodemon": "^1.18.0",
+    "nodemon": "^3.1.14",
     "echarts": "^7.18.0",
     "nexus": "^4.8.0",
     "pretty-ms": "^3.2.0",
