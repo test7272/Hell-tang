@@ -191,7 +191,7 @@
     "p-map": "^3.17.0",
     "intl-messageformat": "^6.7.0",
     "graceful-fs": "^2.5.0",
-    "@tanstack/react-table": "^6.15.0",
+    "@tanstack/react-table": "^9.1.2",
     "clean-webpack-plugin": "^4.0.0",
     "yauzl": "^6.8.0",
     "undici": "^1.2.0",
