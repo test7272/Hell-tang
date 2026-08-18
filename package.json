@@ -44,7 +44,7 @@
     "mapbox-gl": "^2.2.0",
     "kafkajs": "^2.2.4",
     "mssql": "^12.7.0",
-    "dotenv-flow": "^3.6.0",
+    "dotenv-flow": "^4.1.0",
     "particles.js": "^5.3.0",
     "i18next": "^5.16.0",
     "passport-google-oauth20": "^8.9.0",
