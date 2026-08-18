@@ -200,7 +200,7 @@
     "less": "^5.15.0",
     "archiver": "^8.5.0",
     "eslint-plugin-node": "^8.16.0",
-    "react-beautiful-dnd": "^6.10.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-i18next": "^7.0.0",
     "@nestjs/core": "^6.12.0",
     "helmet": "^2.14.0",
